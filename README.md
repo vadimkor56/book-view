@@ -2,6 +2,8 @@
 
 This flask application allows you to sign up, find a book you need, review it and see reviews from others as well as the book's rating from goodreads
 
+It has its own API
+
 - application.py: flask application
 - import.py: python script for inserting data from csv file to database
 - books.csv: file with info about books in csv format
