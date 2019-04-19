@@ -9,4 +9,5 @@ This flask application allows you to sign up, find a book you need, review it an
 - templates: directory with html templates for the project
 - requirements.txt: file with the list of the packages that should be istalled
 
+**Link:** https://book-view.herokuapp.com/
 **Demonstration of work:** https://www.youtube.com/watch?v=vvvldjm9xgk&t=1s
