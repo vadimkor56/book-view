@@ -1,6 +1,6 @@
 # BookView
 
-This flask application allows you to sign up, find a book you need, review it and see reviews from others as well as the book's rating from goodreads
+This flask application allows you to sign up, find a book you need, review it and see reviews from others as well as the book's rating from goodreads over 5000 books.
 
 It has its own API
 
