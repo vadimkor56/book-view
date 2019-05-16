@@ -13,4 +13,4 @@ It has its own API
 
 **Link:** https://book-view.herokuapp.com/ 
 
-**Demonstration of work:** https://www.youtube.com/watch?v=vvvldjm9xgk&t=1s
+**Demonstration of work:** https://www.youtube.com/watch?v=vvvldjm9xgk&t=1s (outdated)
